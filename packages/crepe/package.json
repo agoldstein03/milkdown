@@ -67,7 +67,7 @@
     "@codemirror/view": "^6.16.0",
     "@milkdown/kit": "workspace:*",
     "@codemirror/theme-one-dark": "^6.1.2",
-    "atomico": "^1.75.1",
+    "atomico": "^1.76.4",
     "clsx": "^2.0.0",
     "codemirror": "^6.0.1",
     "nanoid": "^5.0.0",
